@@ -1,8 +1,13 @@
 {
-  "index": "Introduction",
+  "index": {
+    "type": "doc"
+  },
+  "getting-started": "Getting Started",
   "graphql-playground": {
     "title": "GraphQL Playground",
     "type": "page",
-    "href": "/graphql-playground"
-  }
+    "href": "/graphql-playground",
+    "icon": "graphql"
+  },
+  "how-to": "How to"
 }
